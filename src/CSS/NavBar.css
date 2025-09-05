@@ -3,7 +3,8 @@
   position: fixed;
   top: 0;
   left: 0;
-  width: 95%;
+  right: 0; 
+  width: 96%;
   display: flex;
   justify-content: space-between;
   align-items: center;
