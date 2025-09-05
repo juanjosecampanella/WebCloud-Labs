@@ -37,7 +37,7 @@ function Navbar() {
   return (
     <nav className={`navbar ${scrolling ? "scrolled" : ""} ${visible ? "" : "hidden"}`}>
       <div className="logo">
-        <img src="/assets/logo_webcloud.png" alt="Logo" />
+        <img src="/WebCloud-Labs/logo_webcloud.png" alt="Logo" />
         <span className={`logo-text ${scrolling ? "hidden" : ""}`}>WebCloud Labs</span>
       </div>
 
