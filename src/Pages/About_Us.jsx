@@ -5,19 +5,19 @@ import "../CSS/About_Us.css";
 function AboutUs() {
   const teamMembers = [
     {
-      image: `/assets/juanCampanella.jpg`,
+      image: `${import.meta.env.BASE_URL}/assets/juanCampanella.jpg`,
       name: "Juan Jose Campanella",
       profession: "BSc. Systems Engineering",
       description: "Passionate about technology and user experience.",
     },
     {
-      image: `/assets/danielMendoza.jpeg`,
+      image: `${import.meta.env.BASE_URL}/assets/danielMendoza.jpeg`,
       name: "Daniel Mendoza",
       profession: "BSc. Systems Engineering",
       description: "Web developer with adaptability, teamwork and focus on efficient and innovative solutions.",
     },
     {
-      image: `/assets/vanessaFontalvo.jpg`,
+      image: `${import.meta.env.BASE_URL}/assets/vanessaFontalvo.jpg`,
       name: "Vanessa Fontalvo",
       profession: "BSc. Systems Engineering",
       description: "Leads projects efficiently with strategic vision.",
