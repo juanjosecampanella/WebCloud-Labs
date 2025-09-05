@@ -1,16 +1,19 @@
 import React from "react";
 import Services from "../components/Services.jsx";
 import "../CSS/Service.css";
+import softwareDevelopment from "../assets/softwareDevelopment.PNG";
+import dataScience from "../assets/dataScience.PNG";
+
 
 function servicesInfo() {
   const Info = [
     {
-      image: `${import.meta.env.BASE_URL}/assets/softwareDevelopment.PNG`,
+      image: softwareDevelopment,
       serviceTitle: "Software Development",
       description: "We develop software applications that will boost your business.",
     },
     {
-      image: `${import.meta.env.BASE_URL}/assets/dataScience.PNG`,
+      image: dataScience,
       serviceTitle: "Data Science",
       description: "We analyze the information provided and make reports based on the data for a better approach to your business.",
     },
