@@ -1,7 +1,7 @@
 # 🌐 WebCloud Labs
 
-Bienvenido a **WebCloud Labs**, la primera versión (**v1.0**) de nuestra plataforma.  
-Somos una startup enfocada en ofrecer servicios de **Software Development** y **Data Analysis**, ayudando a empresas y emprendedores a transformar su visión en soluciones digitales efectivas.  
+Bienvenido a **WebCloud Labs**, la primera versión (**v1.0**) de la plataforma.  
+**WebCloud Labs** se está preparando para ser una startup enfocada en ofrecer servicios de **Software Development** y **Data Analysis**, ayudando a empresas y emprendedores a transformar su visión en soluciones digitales efectivas. Esta es una primera versión de la página web que van a lanzar.
 
 ---
 
