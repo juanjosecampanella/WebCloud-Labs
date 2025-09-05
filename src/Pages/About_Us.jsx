@@ -1,23 +1,26 @@
 import React from "react";
 import ProfileCard from "../components/ProfileCard";
 import "../CSS/About_Us.css";
+import juanCampanella from "/assets/juanCampanella.jpg";
+import danielMendoza from "/assets/danielMendoza.jpeg";
+import vanessaFontalvo from "/assets/vanessaFontalvo.jpg";
 
 function AboutUs() {
   const teamMembers = [
     {
-      image: `${import.meta.env.BASE_URL}/assets/juanCampanella.jpg`,
+      image: juanCampanella,
       name: "Juan Jose Campanella",
       profession: "BSc. Systems Engineering",
       description: "Passionate about technology and user experience.",
     },
     {
-      image: `${import.meta.env.BASE_URL}/assets/danielMendoza.jpeg`,
+      image: danielMendoza,
       name: "Daniel Mendoza",
       profession: "BSc. Systems Engineering",
       description: "Web developer with adaptability, teamwork and focus on efficient and innovative solutions.",
     },
     {
-      image: `${import.meta.env.BASE_URL}/assets/vanessaFontalvo.jpg`,
+      image: vanessaFontalvo,
       name: "Vanessa Fontalvo",
       profession: "BSc. Systems Engineering",
       description: "Leads projects efficiently with strategic vision.",
