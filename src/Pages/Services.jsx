@@ -5,12 +5,12 @@ import "../CSS/Service.css";
 function servicesInfo() {
   const Info = [
     {
-      image: "src/assets/softwareDevelopment.PNG",
+      image: "/assets/softwareDevelopment.PNG",
       serviceTitle: "Software Development",
       description: "We develop software applications that will boost your business.",
     },
     {
-      image: "src/assets/dataScience.PNG",
+      image: "/assets/dataScience.PNG",
       serviceTitle: "Data Science",
       description: "We analyze the information provided and make reports based on the data for a better approach to your business.",
     },
