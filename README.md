@@ -1,8 +1,23 @@
-# React + Vite
+# 🌐 WebCloud Labs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bienvenido a **WebCloud Labs**, la primera versión (**v1.0**) de nuestra plataforma.  
+Somos una startup enfocada en ofrecer servicios de **Software Development** y **Data Analysis**, ayudando a empresas y emprendedores a transformar su visión en soluciones digitales efectivas.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Descripción
+WebCloud Labs v1.0 combina:
+- 🚀 **Frontend en React + Vite** para una experiencia rápida y moderna.  
+- ⚙️ **Backend en Node.js + Express** para manejar rutas y la API.  
+- 📊 **MongoDB** como base de datos principal para la persistencia de datos.  
+
+Este proyecto está diseñado para escalar, integrando **desarrollo de software** y **análisis de datos**.
+
+---
+
+## ⚙️ Tecnologías utilizadas
+- **Frontend:** React + Vite  
+- **Backend:** Node.js + Express  
+- **Base de datos:** MongoDB + Mongoose  
+- **Desarrollo:** Nodemon, ESLint  
+- **Lenguajes:** JavaScript, JSX, CSS
