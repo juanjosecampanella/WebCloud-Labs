@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "../CSS/NavBar.css";
+import webCloud from "/assets/logo_webcloud.png";
 
 function Navbar() {
   const [scrolling, setScrolling] = useState(false);
@@ -37,7 +38,7 @@ function Navbar() {
   return (
     <nav className={`navbar ${scrolling ? "scrolled" : ""} ${visible ? "" : "hidden"}`}>
       <div className="logo">
-        <img src="/WebCloud-Labs/logo_webcloud.png" alt="Logo" />
+        <img src={webCloud} alt="Logo" />
         <span className={`logo-text ${scrolling ? "hidden" : ""}`}>WebCloud Labs</span>
       </div>
 
