@@ -1,8 +1,8 @@
 import React from "react";
 import Services from "../components/Services.jsx";
 import "../CSS/Service.css";
-import softwareDevelopment from "../assets/softwareDevelopment.PNG";
-import dataScience from "../assets/dataScience.PNG";
+import softwareDevelopment from "/assets/softwareDevelopment.PNG";
+import dataScience from "/assets/dataScience.PNG";
 
 
 function servicesInfo() {
